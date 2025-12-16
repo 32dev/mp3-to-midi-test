@@ -5,7 +5,7 @@ from basic_pitch.inference import predict_and_save
 from basic_pitch import ICASSP_2022_MODEL_PATH 
 
 # --- 설정 ---
-input_mp3 = r"full.mp3"  # 실제 MP3 파일 경로로 변경하세요
+input_mp3 = r"practice-0001.mp3"  # 실제 MP3 파일 경로로 변경하세요
 output_dir = r"output_midi_files"
 
 # 출력 디렉터리 생성
